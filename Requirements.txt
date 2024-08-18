@@ -1,0 +1,18 @@
+
+Requirements:
+
+User will provide long url and the system will provid the shortUrl and viceVerse.
+There is a chance of users going to the 1 million.
+no need to ui test in postman 
+write the unit cases with coverage 80%
+write the integration test cases also.
+
+
+URL Shorten Server
+
+
+naming server
+api gateway
+shortService 
+Token Service 
+One Cassandra DB
